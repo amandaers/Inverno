@@ -1,5 +1,5 @@
 <h1 align="center">
-❄💻<Desafio-Inverno>
+  ❄☃💻<br>DESAFIO - Inverno
 </h1>
 Esse é um desafio proposto pelo curso de Front-end oferecido pelo  <a href = "https://vainaweb.com.br/">Vai na web.</a>
 O desafio tinha como objetivo criar um clone de um projeto desenvolvido pelos instrutores do Vai na web pelo figma, nele foi possível aplicar os conceitos ensinados ao longo das aulas. Este projeto é uma página temática dedicada a estação do ano inverno.
