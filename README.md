@@ -10,9 +10,9 @@ O desafio de inverno é um site com design simples desnvolvido apenas com HTML e
 ![Resultado final do projeto](assets/designfinal.png)
 
 ## Funcionalidades 
-- **Estação do ano: Algumas informações sobre o inverno, a previsão do tempo em algumas regiões e os destinos mais populares de inverno;
-- **Duração: O período do ano, mês e dia, quando começa e termina a estação;
-- **Galeria: Algumas imagens de árvores cobertas de neve, florestas geladas e ursos polares;
+- **Estação do ano**: Algumas informações sobre o inverno, a previsão do tempo em algumas regiões e os destinos mais populares de inverno;
+- **Duração**: O período do ano, mês e dia, quando começa e termina a estação;
+- **Galeria**: Algumas imagens de árvores cobertas de neve, florestas geladas e ursos polares;
 ---
 
 ## 💼 Tecnologias utilizadas
