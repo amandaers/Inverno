@@ -5,7 +5,7 @@ Esse é um desafio proposto pelo curso de Front-end oferecido pelo  <a href = "h
 O desafio tinha como objetivo criar um clone de um projeto desenvolvido pelos instrutores do Vai na web pelo figma, nele foi possível aplicar os conceitos ensinados ao longo das aulas. Este projeto é uma página temática dedicada a estação do ano inverno.
 
 ## Visão geral 
-O desafio de inverno é um site com design simples desnvolvido apenas com HTML e Css, oferencendo algumasinformações sobre o inverno.
+O desafio de inverno é um site com design simples desnvolvido apenas com HTML e Css, oferencendo algumas informações sobre o inverno.
 
 ![Resultado final do projeto](assets/designfinal.png)
 
